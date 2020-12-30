@@ -16,7 +16,7 @@ This repository contains the samples that demonstrate the functionalities of Win
  </tr>
  <tr>
   <td><a href="Samples/DateRestriction">Disable/block all weekends</a></td>
-  <td><a href="Samples/DateRestriction">Block dates using BlackoutDates</a></td>
+  <td><a href="Samples/ViewAndItemCustomization">Block dates using BlackoutDates</a></td>
   <td><a href="Samples/DateRestriction">Edit date using free form editing</a></td>
   <td><a href="Samples/ViewAndItemCustomization">Change flow direction</a></td>
  </tr>
