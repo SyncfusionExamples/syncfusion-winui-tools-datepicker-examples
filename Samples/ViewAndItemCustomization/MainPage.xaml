@@ -7,7 +7,6 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:editors="using:Syncfusion.UI.Xaml.Editors" 
     xmlns:core="using:Syncfusion.UI.Xaml.Core.Extensions" 
-    xmlns:local1="using:ViewAndItemCustomization.ViewModel"
     xmlns:placement="using:Microsoft.UI.Xaml.Controls.Primitives"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
@@ -19,7 +18,7 @@
         </DataTemplate>
     </Page.Resources>
     <Page.DataContext>
-        <local1:DatePickerViewModel x:Name="viewModel" />
+        <local:DatePickerViewModel x:Name="viewModel" />
     </Page.DataContext>
 
     <Grid>
