@@ -35,5 +35,12 @@ This repository contains the samples that demonstrate the functionalities of Win
  <tr>
   <td><a href="Samples/ViewAndItemCustomization">Change the size of dropdown cells</a></td>
   <td><a href="Samples/ViewAndItemCustomization">Change dropdown height</a></td>
+  <td><a href="Samples/SpinnerCustomUI">Customize the dropdown button</a></td>
+  <td><a href="Samples/SpinnerCustomUI">Customize the cell’s style in dropdown spinner</a></td>
+ </tr>
+ <tr>
+  <td><a href="Samples/Localization">Change the type of calendar</a></td>
+  <td><a href="Samples/Localization">Change the language</a></td>
+  <td><a href="Samples/Localization">Open dropdown programmatically</a></td>
  </tr>
 </table>
